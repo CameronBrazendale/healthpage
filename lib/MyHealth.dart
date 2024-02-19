@@ -11,7 +11,7 @@ class MyHealthPage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Wag1',
+          'My health',
           style: TextStyle(fontSize: 24.0),
         ),
       ),
